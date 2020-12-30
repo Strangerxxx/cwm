@@ -29,12 +29,6 @@
     $ make ingress
 ```
 
-##### Deploy ingress controller
-
-```bash
-    $ make ingress
-```
-
 ##### Download and move binaries to right place
 
  - place downloaded lobby-server-linux-x64.*.tar.gz to lobby directory of project root
