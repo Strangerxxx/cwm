@@ -31,8 +31,8 @@
 
 ##### Download and move binaries to right place
 
- - place downloaded lobby-server-linux-x64.*.tar.gz to lobby directory of project root
- - place downloaded ws-relayd* to relay directory of project root
+ - place downloaded `lobby-server-linux-x64.*.tar.gz` to `lobby` directory of project root
+ - place downloaded `ws-relayd*` to `relay` directory of project root
 
 ##### Run local building and deployment
 
