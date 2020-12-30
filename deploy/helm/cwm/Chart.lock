@@ -1,0 +1,9 @@
+dependencies:
+- name: lobby
+  repository: file://../lobby/
+  version: 0.1.0
+- name: relay
+  repository: file://../relay/
+  version: 0.1.0
+digest: sha256:2b10fef2459aaee381ec83e6f42a1ca779238e306494adcbbf075be86e1671f5
+generated: "2020-12-30T05:58:25.640464+03:00"

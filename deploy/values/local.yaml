@@ -1,0 +1,19 @@
+global:
+  relayUrl: "http://relay.cwm.local"
+
+lobby:
+  baseUrl: http://lobby.cwm.local
+  ingress:
+    enabled: true
+    hosts:
+      - host: lobby.cwm.local
+        paths:
+          - /
+
+relay:
+  ingress:
+    enabled: true
+    hosts:
+      - host: relay.cwm.local
+        paths:
+          - /
