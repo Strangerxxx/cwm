@@ -41,3 +41,8 @@
       LOBBY_DISTRIBUTION_VERSION=<asterisked_number_of_lobby_tarball> \
       RELAY_DISTRIBUTION_VERSION=<asterisked_number_of_relay_binary>
 ```
+
+### Links
+
+https://blog.jetbrains.com/tag/codewithme/
+https://www.jetbrains.com/help/cwm/code-with-me-administration-guide.html
