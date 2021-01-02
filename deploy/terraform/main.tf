@@ -31,7 +31,7 @@ resource "kubernetes_secret" "jwt" {
 }
 
 resource "helm_release" "cwm" {
-  chart = "../cwm"
+  chart = "../helm/cwm"
   name = "cwm"
   namespace = kubernetes_namespace.cwm.metadata[0].name
   values = [for path in var.values: file(path)]
