@@ -1,4 +1,4 @@
-# CodeWithMe
+# Jetbrains CodeWithMe
 
 ## one deployment for one night
 
